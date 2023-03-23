@@ -9,3 +9,7 @@ Another line
 --
 
 I really like to add lines!
+
+--
+
+This is a local change.
