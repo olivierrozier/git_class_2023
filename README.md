@@ -5,3 +5,7 @@ This is an exercise for the 2023 Git Class.
 --
 
 Another line
+
+--
+
+I really like to add lines!
